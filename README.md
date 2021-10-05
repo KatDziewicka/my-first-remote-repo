@@ -11,3 +11,6 @@ These are the changes I am committing for the exercise.
 These are the changes I am making in a new branch called flavour.
 
 My name is Kasia and I am a scholar at Academy. I feel really tired and it's only day 2.
+
+
+Another addition
